@@ -6,7 +6,8 @@ The Titanic Classification Project aims to build a predictive model to determine
 
 ## Dataset
 
-The dataset used for this project is the Titanic dataset, which can be found [here](Titanic Dataset). The dataset contains information about the passengers such as age, sex, passenger class, fare, and whether they survived.
+The dataset used for this project is the Titanic dataset, which can be found [here](https://github.com/datasciencedojo/datasets/blob/master/titanic.csv). The dataset contains information about the passengers such as age, sex, passenger class, fare, and whether they survived.
+
 
 ## Project Steps
 
