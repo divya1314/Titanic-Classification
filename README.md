@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Titanic Classification Project aims to build a predictive model to determine the likelihood of survival for passengers on the Titanic using data science techniques in Python. This project involves data preprocessing, feature engineering, model training, evaluation, and visualization to gain insights into the factors influencing survival.
+The Titanic Classification Project aims to build a predictive model to determine the likelihood of survival for passengers on the Titanic using data science techniques in Python. This project involves data preprocessing, feature engineering, model training, evaluation, and visualization to gain insights into the factors influencing survival.The project was undertaken as part of an internship at Bharat Intern.
 
 ## Dataset
 
